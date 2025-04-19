@@ -1,8 +1,0 @@
-/unpackage/dist/*
-/node_modules/*
-/.idea/*
-deploy.sh
-.hbuilderx/
-
-deploy
-.DS_Store
